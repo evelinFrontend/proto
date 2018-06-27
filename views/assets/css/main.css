@@ -1,0 +1,22 @@
+/* anular estilos */
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+/*------------------------------*/
+.menu--top{
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: flex-end;
+  border-bottom: 1px solo
+}
+
+.menu{
+  width: 100%;
+  height: 100px;
+}
